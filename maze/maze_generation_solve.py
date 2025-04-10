@@ -4,7 +4,7 @@ import tkinter.messagebox as msgbox  # For showing final stats popup
 import random  # For generating random maze
 import time  # For timing how long solving the maze takes
 
-# Heuristic function: Manhattan distance between two points
+# Heuristic function: Manhattan distance between two point
 def solve(a, b):
     return abs(a[0] - b[0]) + abs(a[1] - b[1])
 
