@@ -1,7 +1,7 @@
 # Wine Quality Prediction Model
 
 ## How to Use
-Run `pip install --user -r requirements.txt`
+Run `pip install -r requirements.txt`
 
 Simple put the .csv file into the same directory as the .py file and run the code.
 
