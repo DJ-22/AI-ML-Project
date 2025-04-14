@@ -7,4 +7,5 @@ catboost
 optuna
 matplotlib
 seaborn
-openpyxl
+imblearn
+joblib
